@@ -3,11 +3,9 @@ package com.school.services.impl;
 import com.school.model.Applicant;
 import com.school.model.Teacher;
 import com.school.services.AdmitsApplicant;
-import com.school.services.TakeCourse;
 import com.school.services.TeachCourse;
 
 public class TeacherServiceImpl implements TeachCourse, AdmitsApplicant {
-
 
 
     @Override
