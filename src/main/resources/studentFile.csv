@@ -1,6 +1,6 @@
-Admission Number, FirstName, Lastname, Gender, Age 
-501,Gbaje,Eva,FEMALE,24
-502,Austin,Dave,MALE,30
-503,Chukwu,Tochi,MALE,27
-504,Tamar,Pere,FEMALE,22
-505,Barrack,Obama,MALE,29
+FirstName, Lastname, Age, Gender, Role, Course, Admission Number
+Gbaje,Eva,24,FEMALE,STUDENT,BIOLOGY,501
+Austin,Dave,30,MALE,STUDENT,CHEMISTRY,502
+Chukwu,Tochi,27,MALE,STUDENT,ENGLISH,503
+Tamar,Pere,22,FEMALE,STUDENT,LITERATURE,504
+Barrack,Obama,29,MALE,STUDENT,MATHEMATICS,505

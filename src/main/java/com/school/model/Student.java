@@ -31,11 +31,11 @@ public class Student extends Person {
 
     public static Student[] generateStudents() {
         Student[] students = {
-                new Student("Gbaje", "Eva", 24, Gender.FEMALE,Role.STUDENT, Course.BIOLOGY, 501),
-                new Student("Austin", "Dave", 30, Gender.MALE,Role.STUDENT,Course.CHEMISTRY, 502),
-                new Student("Chukwu", "Tochi", 27, Gender.MALE,Role.STUDENT, Course.ENGLISH,503),
-                new Student("Tamar", "Pere", 22, Gender.FEMALE,Role.STUDENT, Course.LITERATURE, 504),
-                new Student("Barrack", "Obama", 29, Gender.MALE,Role.STUDENT, Course.MATHEMATICS,505),
+                new Student("Gbaje","Eva",24, Gender.FEMALE,Role.STUDENT, Course.BIOLOGY, 501),
+                new Student("Austin","Dave",30, Gender.MALE,Role.STUDENT,Course.CHEMISTRY, 502),
+                new Student("Chukwu","Tochi",27, Gender.MALE,Role.STUDENT, Course.ENGLISH,503),
+                new Student("Tamar","Pere",22, Gender.FEMALE,Role.STUDENT, Course.LITERATURE, 504),
+                new Student("Barrack","Obama",29, Gender.MALE,Role.STUDENT, Course.MATHEMATICS,505),
         };
         return students;
     }
